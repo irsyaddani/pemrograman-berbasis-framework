@@ -64,3 +64,5 @@
 3. Implementasikan fitur untuk menghapus tugas dari daftar.
 
 ![alt text](image-4.png)
+
+<br> ![alt text](image-6.png)
